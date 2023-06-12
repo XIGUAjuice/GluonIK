@@ -1,0 +1,8 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "*.html": "django-html",
+        "*.json": "jsonc",
+        "limits": "cpp"
+    }
+}
